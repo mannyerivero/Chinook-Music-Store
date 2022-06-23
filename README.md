@@ -1,4 +1,4 @@
-# SQL-Chinook-Music-Store
+# SQL-Answering-Key-Business-Questions
 
 ## Introduction
 
